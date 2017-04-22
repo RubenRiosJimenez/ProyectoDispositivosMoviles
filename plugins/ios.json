@@ -1,0 +1,76 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "com.ubb.proyecto"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.ubb.proyecto"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "com.ubb.proyecto"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.ubb.proyecto"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "com.ubb.proyecto"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.ubb.proyecto"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "com.ubb.proyecto"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "com.ubb.proyecto"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.ubb.proyecto"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.ubb.proyecto"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.ubb.proyecto"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "com.ubb.proyecto"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.ubb.proyecto"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "com.ubb.proyecto"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.ubb.proyecto"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.ubb.proyecto"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.ubb.proyecto"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "com.ubb.proyecto"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.ubb.proyecto"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.ubb.proyecto"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.ubb.proyecto"
+        }
+    }
+}
